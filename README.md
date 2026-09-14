@@ -1,2 +1,26 @@
-Last updated: 2026-09-15 05:30:44 WIB
-Last updated: 2026-09-15 05:33:18 WIB
+# Restoran-Website
+
+
+
+## 📋 Overview
+
+This repository contains **5219 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 05:35:00 WIB*
